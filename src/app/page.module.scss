@@ -1,0 +1,9 @@
+@use "../styles/typography.scss";
+@use "../styles/mixins.scss";
+
+.page {
+    padding: 82px 50px;
+    @include mixins.fill-container;
+    background-image: url(../assets/images/backgroundImg-Home.png);
+    background-size: cover;
+}
