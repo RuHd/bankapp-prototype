@@ -5,6 +5,7 @@ import { FaBeer, FaHome } from 'react-icons/fa';
 
 const meta = {
   component: Index,
+  tags:["autodocs"]
 } satisfies Meta<typeof Index>;
 
 export default meta;

@@ -9,6 +9,7 @@ import { MdFeaturedPlayList } from "react-icons/md";
 
 const meta = {
   component: Index,
+  tags:["autodocs"]
 } satisfies Meta<typeof Index>;
 
 export default meta;

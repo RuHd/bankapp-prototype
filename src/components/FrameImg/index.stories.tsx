@@ -4,6 +4,7 @@ import Indes from '.';
 
 const meta = {
   component: Indes,
+  tags:["autodocs"]
 } satisfies Meta<typeof Indes>;
 
 export default meta;
